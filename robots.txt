@@ -1,0 +1,17 @@
+User-agent: *
+
+
+Disallow: /rhino3d.com/blog/are-you-doing-the-right-way/
+
+Disallow: /rhino3d.com/blog/simple-post-title/
+
+Disallow: /rhino3d.com/blog/simple-image-post/
+
+Disallow: /rhino3d.com/blog/
+
+Disallow: /rhino3d.com/categories/
+
+Disallow: /rhino3d.com/
+
+Disallow: /rhino3d.com/tags/
+
