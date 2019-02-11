@@ -1,12 +1,17 @@
 baseURL = "http://dbelcher.github.io/rhino3d.com/"
 languageCode = "en-us"
-title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
+title = "Rhinoceros 3D | design, model, present, analyze, realize..."
 theme = "meghna-hugo"
 enableRobotsTXT = "true"
 
 
 # Menu
 [menu]
+    [[menu.nav]]
+    name = "Buy"
+    URL = "buy"
+    weight = 1
+
     [[menu.nav]]
     name = "About Us"
     URL = "about"
@@ -59,10 +64,10 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
+    heading = "Blah blah blah blah blah"
     content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     btn = true
-    btnText="Explore Us"
+    btnText="Explore"
     btnURL="#services"
 
     # call to action
