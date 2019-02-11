@@ -1,5 +1,5 @@
 ---
-title: Simple Image Post Again
+title: Simple Image Post
 date: 2018-09-12 06:52:36 +0000
 image: images/blog/blog-post-1.jpg
 author: Jamica Jock
