@@ -68,3 +68,13 @@ p {
     font-size: 16px;
     color: #6e6e6e;
 }
+
+.hero-area:before {
+    content: '';
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
