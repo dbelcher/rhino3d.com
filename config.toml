@@ -18,12 +18,12 @@ enableRobotsTXT = "true"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Features"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "Gallery"
     URL = "portfolio"
     weight = 4
 
@@ -38,7 +38,7 @@ enableRobotsTXT = "true"
     weight = 6
 
     [[menu.nav]]
-    name = "Blog"
+    name = "News"
     URL = "blog"
     weight = 7
 
