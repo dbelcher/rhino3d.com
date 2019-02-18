@@ -1,4 +1,4 @@
-baseURL = "http://dbelcher.github.io/rhino3d.com/"
+baseURL = "https://dbelcher.github.io/rhino3d.com/"
 languageCode = "en-us"
 title = "Rhinoceros 3D | design, model, present, analyze, realize..."
 theme = "meghna-hugo"
